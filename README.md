@@ -1,6 +1,6 @@
 ### Hi there, I'm Vlad, getting better every day is my goal
 
-## I'm a student, web-developer and a "wannabe" entrepreneur developing my own business
+## I'm a web-developer and a "wannabe" entrepreneur developing my own business
 
 - 👋🏽 I love networking events
 - 👨🏽‍💻 Coding is my passion
